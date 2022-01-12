@@ -1,0 +1,18 @@
+article {
+    background-color: darkmagenta;
+
+}
+.article-heading {
+    font-size: 36px;
+    text-align: center;
+}
+.article-text {
+    font-size: 30px;
+    line-height: normal;
+    text-align: justify;
+    color: darkslategray;
+    text-decoration: underline;
+}
+.btn {
+    text-transform: lowercase
+}
